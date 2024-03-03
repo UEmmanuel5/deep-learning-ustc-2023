@@ -1,0 +1,10 @@
+1. 'nltk'
+2. 'pandas'
+3. 'numpy'
+4. 're'
+5. 'tensorflow'
+6. 'matplotlib'
+7. 'sklearn'
+8. 'pydot'
+9. 'seaborn'
+
