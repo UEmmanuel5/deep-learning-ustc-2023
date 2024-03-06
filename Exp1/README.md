@@ -63,9 +63,21 @@ The author expresses gratitude to God for providing strength and acknowledges th
 
 ### Code for Experiment 1
 
-The code for Experiment 1 is available in the `Exp1_Code.ipynb` notebook. It includes the necessary libraries, the definition of the neural network class, a training function, and the execution of the experiment with specific hyperparameters.
+The code for Experiment 1 is available in the `main.py` script. It includes the necessary libraries, the definition of the neural network class, a training function, and the execution of the experiment with specific hyperparameters.
 
-To run the code, follow the instructions in the notebook and ensure that the required libraries are installed. The notebook provides detailed comments for each section, making it easy to understand and reproduce the experiment.
+#### Requirements
+
+Before running the code, ensure you have the following libraries installed:
+
+```bash
+pip install numpy==1.23.5
+pip install matplotlib==3.7.1
+pip install torch==2.1.0
+```
+
+#### Execution
+
+To run the code, execute the script in your preferred Python environment. The script provides detailed comments for each section, making it easy to understand and reproduce the experiment.
 
 Feel free to explore and modify the code for further experimentation or adaptation to different tasks. If you encounter any issues or have questions, please refer to the provided report or reach out for assistance.
 
