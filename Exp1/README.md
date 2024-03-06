@@ -53,7 +53,7 @@ This extensive series of experiments provides valuable insights into hyperparame
 
 ### 5. Acknowledgement
 
-The author expresses gratitude to God for providing strength and acknowledges the invaluable assistance of senior colleagues who guided during the coding phase of this project.
+The author acknowledges the invaluable assistance of senior colleagues who guided him during this project.
 
 ### 6. References
 
