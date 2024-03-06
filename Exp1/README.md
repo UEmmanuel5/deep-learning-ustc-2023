@@ -67,7 +67,7 @@ The code for Experiment 1 is available in the `main.py` script. It includes the 
 
 #### Requirements
 
-Before running the code, ensure you have the following libraries installed:
+Before running the code, ensure you at least have the following libraries installed:
 
 ```bash
 pip install numpy==1.23.5
@@ -79,7 +79,7 @@ pip install torch==2.1.0
 
 To run the code, execute the script in your preferred Python environment. The script provides detailed comments for each section, making it easy to understand and reproduce the experiment.
 
-Feel free to explore and modify the code for further experimentation or adaptation to different tasks. If you encounter any issues or have questions, please refer to the provided report or reach out for assistance.
+Feel free to explore and modify the code for further experimentation or adaptation to different tasks. If you encounter any issues or have questions, please refer to the above provided brief report or reach out for assistance.
 
 ---
 
@@ -89,10 +89,12 @@ Feel free to explore and modify the code for further experimentation or adaptati
 
 ### How to Reference this Repository
 
-If you find this work useful or utilize the provided code for your research or projects, we kindly request that you reference this repository in your work. You can use the following BibTeX entry:
+If you find this work useful or utilize the provided code for your research or projects, I kindly request that you reference this repository in your work. You can use the following entry:
 
 ```latex
-[2] Emmanuel Ugwu, "Hyperparameter Tuning in Feedforward Neural Networks for Accurate Sine Function Approximation," 2023. GitHub Repository. [Online]. Available: [GitHub](https://github.com/UEmmanuel5/deep-learning-ustc-2023/tree/master/Exp1).
+[x] Emmanuel Ugwu, "Hyperparameter Tuning in Feedforward Neural Networks for Accurate Sine Function Approximation," 2023. GitHub Repository. [Online]. Available: [GitHub](https://github.com/UEmmanuel5/deep-learning-ustc-2023/tree/master/Exp1).
+
+'x' above is the number this reference would be place in the your reference section.
 ```
 
 Thank you for acknowledging and referencing this work!
