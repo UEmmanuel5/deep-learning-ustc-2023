@@ -52,6 +52,7 @@ I would like to express my gratitude to Dr. Lian Defu for his guidance and suppo
 
 ### 6. References
 [1]    T. N. Kipf and M. Welling, "Semi-supervised classification with graph Convolutional Networks," arXiv.org, https://arxiv.org/abs/1609.02907 (accessed Jan. 2, 2024).
+
 [2]    Z. Li21, "HandMade implementation of Graph Convolutional Neural Networks," GitHub, https://github.com/Zhaoyi-Li21/Courseworks-for-graduate-atUSTC/tree/master/deeplearn_lab4_gcn (accessed Jan. 2, 2024).
 
 ---
