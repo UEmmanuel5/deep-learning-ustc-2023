@@ -92,7 +92,7 @@ Feel free to explore and modify the code for further experimentation or adaptati
 If you find this work useful or utilize the provided code for your research or projects, I kindly request that you reference this repository in your work. You can use the following entry:
 
 ```latex
-[x] Emmanuel Ugwu, "Hyperparameter Tuning in Feedforward Neural Networks for Accurate Sine Function Approximation," 2023. GitHub Repository. [Online]. Available: [GitHub](https://github.com/UEmmanuel5/deep-learning-ustc-2023/tree/master/Exp1).
+[x] Emmanuel Ugwu, "Hyperparameter Tuning in Feedforward Neural Networks for Accurate Sine Function Approximation", 2023. GitHub Repository. [Online]. Available: [GitHub](https://github.com/UEmmanuel5/deep-learning-ustc-2023/tree/master/Exp1).
 
 'x' above is the number this reference would be place in the your reference section.
 ```

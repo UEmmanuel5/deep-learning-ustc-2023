@@ -88,7 +88,7 @@ If you find this work useful or utilize the provided code for your research or p
 
 ```latex
 
-[x] Emmanuel Ugwu, "Hyperparameter Tuning in Convolutional Neural Networks for Image Classification," 2023. GitHub Repository. [Online]. Available: [GitHub](https://github.com/UEmmanuel5/deep-learning-ustc-2023/tree/master/Exp2).
+[x] Emmanuel Ugwu, "Hyperparameter Tuning in Convolutional Neural Networks for Image Classification", 2023. GitHub Repository. [Online]. Available: [GitHub](https://github.com/UEmmanuel5/deep-learning-ustc-2023/tree/master/Exp2).
 
 'x' above is the number this reference would be placed in your reference section.
 ```
