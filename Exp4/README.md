@@ -99,7 +99,7 @@ If you find this work useful or utilize the provided code for your research or p
 ```latex
 [x] Emmanuel Ugwu, "Exploring Graph Convolutional Networks: A Comprehensive Study on Node Classification and Link Prediction Tasks with Systematic Optimization", 2023. GitHub Repository. [Online]. Available: [GitHub](https://github.com/UEmmanuel5/deep-learning-ustc-2023/tree/master/Exp4).
 
-'x' above is the number this reference would be place in the your reference section.
+'x' above is the number this reference would be place in your reference section.
 
 ```
 
