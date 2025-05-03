@@ -1,3 +1,3 @@
 numpy==1.23.5
 matplotlib==3.7.1
-torch==2.1.0
+torch==2.1.0  (I used 2.1.0 but since it has some vulnerability, you can use torch>=2.6.0)
